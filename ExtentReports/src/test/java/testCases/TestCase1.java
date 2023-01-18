@@ -28,6 +28,7 @@ public class TestCase1 {
 
 	@Test
 	public void Loginuser() {
+		//Commenting for test
 		/*
 		 * System.setProperty("webdriver.chrome.driver",
 		 * "C:\\Users\\kuzha\\Downloads\\chromedriver_win32\\chromedriver.exe");
